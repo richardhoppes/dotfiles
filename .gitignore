@@ -1,0 +1,18 @@
+# Jetbrains Shit
+*.iml
+*.imr
+*.ipr
+*.iws
+overlays
+.idea 
+
+# Build Leftovers
+classes
+build/
+deploy/
+target/
+*.ear
+bin/
+
+# Other Stuff
+MANIFEST.MF
